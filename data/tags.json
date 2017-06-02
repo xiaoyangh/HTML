@@ -1,0 +1,22 @@
+[
+  {
+    "name": "javascript",
+    "total": 2,
+    "url": "/data/tags/javascript.json"
+  },
+  {
+    "name": "vue",
+    "total": 3,
+    "url": "/data/tags/vue.json"
+  },
+  {
+    "name": "node",
+    "total": 3,
+    "url": "/data/tags/node.json"
+  },
+  {
+    "name": "js",
+    "total": 1,
+    "url": "/data/tags/js.json"
+  }
+]

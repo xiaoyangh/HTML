@@ -1,0 +1,17 @@
+{
+  "site": {
+    "name": "Eureka",
+    "desc": "Eureka! you can record the first snapshots of a Eureka moment. 🤔",
+    "url": "",
+    "logo": "img/eureka.png",
+    "default_template": "post"
+  },
+  "meta": {
+    "keywords": "eureka,blog,simple,fast,flexible",
+    "description": "Eureka! you can record the first snapshots of a Eureka moment. 🤔"
+  },
+  "github": {
+    "url": "https://github.com/eteplus",
+    "show": true
+  }
+}

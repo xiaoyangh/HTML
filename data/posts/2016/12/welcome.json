@@ -1,0 +1,11 @@
+{
+  "title": "welcome",
+  "author": "eteplus",
+  "date": "2016-12-22 17:41:30",
+  "tags": [
+    "javascript",
+    "vue",
+    "node"
+  ],
+  "content": "<blockquote>\n<p>Eureka! you can record the first snapshots of a Eureka moment. 🤔</p>\n</blockquote>\n<p>Welcome to use eureka. This is your very first post. ^_^</p>\n<h3 id=\"code-highlight\">code highlight</h3>\n<pre><code class=\"lang-js\"><span class=\"hljs-comment\">/*\n * beautiful code\n */</span>\n<span class=\"hljs-function\"><span class=\"hljs-keyword\">function</span> <span class=\"hljs-title\">eureka</span>(<span class=\"hljs-params\"></span>) </span>{\n  <span class=\"hljs-built_in\">console</span>.log(<span class=\"hljs-string\">'Hello Eureka'</span>);\n}\neureka();\n</code></pre>\n"
+}
